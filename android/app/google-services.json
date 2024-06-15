@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "264988181204",
+    "project_id": "flutter-tasker-14781",
+    "storage_bucket": "flutter-tasker-14781.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264988181204:android:15c68a2fe66abfc5a23141",
+        "android_client_info": {
+          "package_name": "com.example.task_manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs2V1ShDIZtYAUlB693UJ8LdLdxMzAhcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
